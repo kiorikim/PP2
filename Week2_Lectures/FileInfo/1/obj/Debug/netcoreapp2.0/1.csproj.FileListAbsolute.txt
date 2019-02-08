@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/bin/Debug/netcoreapp2.0/1.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/bin/Debug/netcoreapp2.0/1.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/bin/Debug/netcoreapp2.0/1.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/bin/Debug/netcoreapp2.0/1.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/bin/Debug/netcoreapp2.0/1.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/obj/Debug/netcoreapp2.0/1.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/obj/Debug/netcoreapp2.0/1.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/obj/Debug/netcoreapp2.0/1.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/obj/Debug/netcoreapp2.0/1.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/obj/Debug/netcoreapp2.0/1.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/FileInfo/1/obj/Debug/netcoreapp2.0/1.pdb

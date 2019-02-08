@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0EC6A188-CA9E-4852-AE7F-134D76F93D41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task2/output.txt">
+    <Files>
+      <File FileName="Task2/Program.cs" Line="35" Column="24" />
+      <File FileName="Task2/input.txt" Line="1" Column="16" />
+      <File FileName="Task2/output.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

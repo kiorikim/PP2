@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/bin/Debug/netcoreapp2.0/Ex10.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/bin/Debug/netcoreapp2.0/Ex10.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/bin/Debug/netcoreapp2.0/Ex10.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/bin/Debug/netcoreapp2.0/Ex10.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/bin/Debug/netcoreapp2.0/Ex10.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/obj/Debug/netcoreapp2.0/Ex10.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/obj/Debug/netcoreapp2.0/Ex10.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/obj/Debug/netcoreapp2.0/Ex10.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/obj/Debug/netcoreapp2.0/Ex10.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/obj/Debug/netcoreapp2.0/Ex10.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week2_Lectures/Ex10/Ex10/obj/Debug/netcoreapp2.0/Ex10.pdb
