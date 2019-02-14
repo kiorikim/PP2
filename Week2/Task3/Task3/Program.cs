@@ -31,6 +31,7 @@ namespace Task3
         {
             DirectoryInfo directory = new DirectoryInfo("/Users/kimkiori/Desktop/ottoke_taks");
             Task3(directory,0);
+            Console.ReadKey();
         }
     }
 }
