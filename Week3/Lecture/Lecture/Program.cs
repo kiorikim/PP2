@@ -99,12 +99,11 @@ namespace Lecture //homework - открыть и отрелактировать 
                     ok = true;
                 if (consoleKey.Key == ConsoleKey.O)
                 {
-                    //FileStream fileStream = File.OpenRead(directory.GetFileSystemInfos()[cursor].FullName);
-                    //TextReader textReader = File.OpenText(directory.GetFileSystemInfos()[cursor].FullName);
-                    //StreamReader sr = File.OpenText(directory.GetFileSystemInfos()[cursor].FullName);
-                    //StreamReader sr = new StreamReader(directory.GetFileSystemInfos()[cursor].FullName);
-                    //String line = sr.ReadToEnd();
-                    //Console.WriteLine(line);
+                    StreamReader st = new StreamReader(directory.GetFileSystemInfos()[cursor].FullName);
+                    Console.Clear();
+                    Console.WriteLine(st.ReadToEnd());
+                    st.Close();
+                    consoleKey = Console.ReadKey();
                 }
                 if (consoleKey.Key == ConsoleKey.Enter)
                 {
