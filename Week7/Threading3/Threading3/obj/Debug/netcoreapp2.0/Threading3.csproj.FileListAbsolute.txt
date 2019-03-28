@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/bin/Debug/netcoreapp2.0/Threading3.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/bin/Debug/netcoreapp2.0/Threading3.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/bin/Debug/netcoreapp2.0/Threading3.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/bin/Debug/netcoreapp2.0/Threading3.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/bin/Debug/netcoreapp2.0/Threading3.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/obj/Debug/netcoreapp2.0/Threading3.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/obj/Debug/netcoreapp2.0/Threading3.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/obj/Debug/netcoreapp2.0/Threading3.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/obj/Debug/netcoreapp2.0/Threading3.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/obj/Debug/netcoreapp2.0/Threading3.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week7/Threading3/Threading3/obj/Debug/netcoreapp2.0/Threading3.pdb

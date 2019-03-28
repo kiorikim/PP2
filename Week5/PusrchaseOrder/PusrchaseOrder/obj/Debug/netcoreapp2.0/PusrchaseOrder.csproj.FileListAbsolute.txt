@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/bin/Debug/netcoreapp2.0/PusrchaseOrder.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/bin/Debug/netcoreapp2.0/PusrchaseOrder.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/bin/Debug/netcoreapp2.0/PusrchaseOrder.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/bin/Debug/netcoreapp2.0/PusrchaseOrder.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/bin/Debug/netcoreapp2.0/PusrchaseOrder.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/obj/Debug/netcoreapp2.0/PusrchaseOrder.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/obj/Debug/netcoreapp2.0/PusrchaseOrder.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/obj/Debug/netcoreapp2.0/PusrchaseOrder.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/obj/Debug/netcoreapp2.0/PusrchaseOrder.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/obj/Debug/netcoreapp2.0/PusrchaseOrder.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week5/PusrchaseOrder/PusrchaseOrder/obj/Debug/netcoreapp2.0/PusrchaseOrder.pdb

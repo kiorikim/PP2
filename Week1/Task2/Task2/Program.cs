@@ -30,7 +30,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Student first = new Student("Kiori", "18BD123455", 1);
+            Student first = new Student("Kiori", "18BD123455", 18);
             first.PrintStudent();
         }
     }

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{06B1AA86-E4FB-489C-A475-F3E5C6FAA8E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Threading3/Program.cs">
+    <Files>
+      <File FileName="Threading3/Program.cs" Line="16" Column="14" />
+      <File FileName="Threading3/Snake.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Threading3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

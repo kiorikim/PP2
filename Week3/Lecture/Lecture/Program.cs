@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 
+
 namespace Lecture //homework - открыть и отрелактировать файл, создать удалить переместить
 {
     class FarManager
@@ -19,7 +20,7 @@ namespace Lecture //homework - открыть и отрелактировать 
         public void Up()
         {
             cursor--;
-            if(cursor<0)
+            if (cursor < 0)
             {
                 cursor = sz - 1;
             }
@@ -27,9 +28,9 @@ namespace Lecture //homework - открыть и отрелактировать 
         public void Down()
         {
             cursor++;
-            if (cursor==sz)
+            if (cursor == sz)
             {
-                cursor = 0; 
+                cursor = 0;
             }
         }
 
@@ -108,15 +109,15 @@ namespace Lecture //homework - открыть и отрелактировать 
                 if (consoleKey.Key == ConsoleKey.Enter)
                 {
                     //Console.WriteLine(directory.GetFileSystemInfos()[cursor].GetType());
-                    for (int i = 0,k = 0; i< directory.GetFileSystemInfos().Length;i++)
+                    for (int i = 0, k = 0; i < directory.GetFileSystemInfos().Length; i++)
                     {
                         if (ok && directory.GetFileSystemInfos()[i].Name.StartsWith("."))
                             continue;
-                        if(cursor == k)
+                        if (cursor == k)
                             fs = directory.GetFileSystemInfos()[i];
                         k++;
                     }
-                    if(fs.GetType() == typeof(DirectoryInfo))
+                    if (fs.GetType() == typeof(DirectoryInfo))
                     {
                         cursor = 0;
                         directory = new DirectoryInfo(fs.FullName);
@@ -132,18 +133,18 @@ namespace Lecture //homework - открыть и отрелактировать 
                         fi.Delete();
                         Show(path);
                     }
-                    else 
+                    else
                     {
                         Directory.Delete(directory.GetFileSystemInfos()[cursor].FullName);
                     }
 
                 }
-                if(consoleKey.Key == ConsoleKey.R)
+                if (consoleKey.Key == ConsoleKey.R)
                 {
                     string renamedFile = Path.Combine(path, Console.ReadLine());
-                    File.Move(directory.GetFileSystemInfos()[cursor].FullName, renamedFile);  
+                    File.Move(directory.GetFileSystemInfos()[cursor].FullName, renamedFile);
                 }
-               
+
             }
         }
 

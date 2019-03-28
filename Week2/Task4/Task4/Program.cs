@@ -19,7 +19,7 @@ namespace Task4
             FileStream fs = File.Create(firstFile);
             fs.Close();
             File.Copy(firstFile,copyOfFile,true);
-
+            File.Delete(firstFile);
         }
     }
 }

@@ -1,0 +1,16 @@
+Address
+Kim Kiori
+Almaty
+Almaly
+050000
+21.02.2019
+Item1
+Item 1 description
+2
+100
+200
+Item2
+Item 2 description
+3
+50
+150

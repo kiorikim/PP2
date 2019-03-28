@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{63734F35-00FB-4156-B1CA-F12236FC4D96}|Default">
+  <MonoDevelop.Ide.ItemProperties.Snake2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snake2/GameObject.cs">
+    <Files>
+      <File FileName="Snake2/Program.cs" Line="11" Column="10" />
+      <File FileName="Snake2/GameObject.cs" Line="22" Column="1" />
+      <File FileName="Snake2/Point.cs" Line="2" Column="1" />
+      <File FileName="Snake2/Snake.cs" Line="35" Column="21" />
+      <File FileName="Snake2/Game.cs" Line="16" Column="22" />
+      <File FileName="Snake2/Food.cs" Line="11" Column="29" />
+      <File FileName="Snake2/Wall.cs" Line="26" Column="18" />
+      <File FileName="Snake2/Level1.txt" Line="1" Column="1" />
+      <File FileName="Snake2/Level2.txt" Line="20" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

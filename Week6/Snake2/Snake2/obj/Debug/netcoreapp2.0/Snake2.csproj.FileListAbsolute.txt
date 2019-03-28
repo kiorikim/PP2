@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/obj/Debug/netcoreapp2.0/Snake2.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/obj/Debug/netcoreapp2.0/Snake2.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/obj/Debug/netcoreapp2.0/Snake2.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/obj/Debug/netcoreapp2.0/Snake2.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/bin/Debug/netcoreapp2.0/Snake2.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/bin/Debug/netcoreapp2.0/Snake2.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/bin/Debug/netcoreapp2.0/Snake2.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/bin/Debug/netcoreapp2.0/Snake2.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/bin/Debug/netcoreapp2.0/Snake2.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/obj/Debug/netcoreapp2.0/Snake2.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Week6/Snake2/Snake2/obj/Debug/netcoreapp2.0/Snake2.pdb

@@ -4,6 +4,16 @@ namespace Task3
 {
     class Program
     {
+        static int[]  CreateNew (int a,int n)
+        {
+            int[] b = new int[n*2];
+            for (int i = 0; i < n*2; i+=2) //outputting each element in array of nukmber two times
+            {
+                b[i] = a;
+                b[i + 1] = a;
+            }
+                return b;
+        }
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine()); //input the size of array
@@ -12,10 +22,7 @@ namespace Task3
             for(int i=0;i<n; i++) //parsing a array of strings to array of numbers
             {
                 a[i] = int.Parse(s[i]);
-            }
-            for (int i = 0; i < n; i++) //outputting each element in array of nukmber two times
-            {
-                Console.Write(a[i] + " " + a[i] + " ");
+                CreateNew(a[i], n);
             }
         }
     }

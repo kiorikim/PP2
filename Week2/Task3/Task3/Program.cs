@@ -20,7 +20,7 @@ namespace Task3
                 spaces(level);
                 Console.WriteLine(file.Name);
             }
-            foreach (DirectoryInfo dir in directories)
+            foreach(DirectoryInfo dir in directories)
             {
                 spaces(level);
                 Console.WriteLine(dir.Name);

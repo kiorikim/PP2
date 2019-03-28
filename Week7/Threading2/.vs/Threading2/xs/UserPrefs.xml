@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{68185C3F-DDA6-4D06-A6B7-615779FD9F5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Threading2/Program.cs">
+    <Files>
+      <File FileName="Threading2/Program.cs" Line="25" Column="10" />
+      <File FileName="Threading2/Bank.cs" Line="15" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Threading2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4A8B7E71-382A-4EB2-8F86-61B37499F69B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PusrchaseOrder/Program.cs">
+    <Files>
+      <File FileName="PusrchaseOrder/Program.cs" Line="30" Column="10" />
+      <File FileName="PusrchaseOrder/PurchaseOrder.cs" Line="43" Column="10" />
+      <File FileName="PusrchaseOrder/order.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PusrchaseOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
