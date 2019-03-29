@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/bin/Debug/netcoreapp2.0/Serialization2.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/bin/Debug/netcoreapp2.0/Serialization2.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/bin/Debug/netcoreapp2.0/Serialization2.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/bin/Debug/netcoreapp2.0/Serialization2.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/bin/Debug/netcoreapp2.0/Serialization2.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/obj/Debug/netcoreapp2.0/Serialization2.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/obj/Debug/netcoreapp2.0/Serialization2.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/obj/Debug/netcoreapp2.0/Serialization2.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/obj/Debug/netcoreapp2.0/Serialization2.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/obj/Debug/netcoreapp2.0/Serialization2.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Serialization2/Serialization2/obj/Debug/netcoreapp2.0/Serialization2.pdb

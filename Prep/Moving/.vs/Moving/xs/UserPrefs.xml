@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{39FCC96E-5320-46C0-8857-E6661850CB18}|Default">
+  <MonoDevelop.Ide.ItemProperties.Moving PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Moving/Program.cs">
+    <Files>
+      <File FileName="Moving/Program.cs" Line="12" Column="28" />
+      <File FileName="Moving/Point.cs" Line="38" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E35FB38F-2138-4A83-A896-95088C190EEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serialization2/Program.cs">
+    <Files>
+      <File FileName="Serialization2/Program.cs" Line="20" Column="13" />
+      <File FileName="Serialization2/Mark.cs" Line="2" Column="25" />
+      <File FileName="Serialization2/marks.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Serialization2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/bin/Debug/netcoreapp2.0/Threading.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/bin/Debug/netcoreapp2.0/Threading.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/bin/Debug/netcoreapp2.0/Threading.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/bin/Debug/netcoreapp2.0/Threading.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/bin/Debug/netcoreapp2.0/Threading.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/obj/Debug/netcoreapp2.0/Threading.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/obj/Debug/netcoreapp2.0/Threading.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/obj/Debug/netcoreapp2.0/Threading.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/obj/Debug/netcoreapp2.0/Threading.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/obj/Debug/netcoreapp2.0/Threading.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Prep/Threading/Threading/obj/Debug/netcoreapp2.0/Threading.pdb
