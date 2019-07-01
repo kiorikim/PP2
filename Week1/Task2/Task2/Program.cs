@@ -26,6 +26,7 @@ namespace Task2
                 return name + " " + id + " " + yostudy;
         }
     }
+
     class Program
     {
         static void Main(string[] args)

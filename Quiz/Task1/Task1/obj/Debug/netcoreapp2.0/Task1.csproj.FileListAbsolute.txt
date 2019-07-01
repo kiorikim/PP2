@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/obj/Debug/netcoreapp2.0/Task1.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/obj/Debug/netcoreapp2.0/Task1.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/obj/Debug/netcoreapp2.0/Task1.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/obj/Debug/netcoreapp2.0/Task1.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/bin/Debug/netcoreapp2.0/Task1.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/bin/Debug/netcoreapp2.0/Task1.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/bin/Debug/netcoreapp2.0/Task1.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/bin/Debug/netcoreapp2.0/Task1.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/bin/Debug/netcoreapp2.0/Task1.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/obj/Debug/netcoreapp2.0/Task1.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Quiz/Task1/Task1/obj/Debug/netcoreapp2.0/Task1.pdb

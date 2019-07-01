@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{ACF15C87-C25F-4B42-906B-6940472295EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="shop.xml">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="20" />
+      <File FileName="Shop.cs" Line="2" Column="34" />
+      <File FileName="shop.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

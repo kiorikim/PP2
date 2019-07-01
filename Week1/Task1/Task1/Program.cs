@@ -20,7 +20,7 @@ namespace Task1
                     if (a[i] % j == 0)
                         isPrime = false; //if number divides on some other number without the remainder it is not prime
                 }
-                if (isPrime && a[i] != 1) //one is not prime
+                if (isPrime==true && a[i] != 1) //one is not prime
                 {
                     list.Add(a[i]); //adding number to the list of answers if it is prime
                 }

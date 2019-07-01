@@ -1,0 +1,11 @@
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/bin/Debug/netcoreapp2.0/Try1.deps.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/bin/Debug/netcoreapp2.0/Try1.runtimeconfig.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/bin/Debug/netcoreapp2.0/Try1.runtimeconfig.dev.json
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/bin/Debug/netcoreapp2.0/Try1.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/bin/Debug/netcoreapp2.0/Try1.pdb
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/obj/Debug/netcoreapp2.0/Try1.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/obj/Debug/netcoreapp2.0/Try1.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/obj/Debug/netcoreapp2.0/Try1.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/obj/Debug/netcoreapp2.0/Try1.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/obj/Debug/netcoreapp2.0/Try1.dll
+/Users/kimkiori/Desktop/university/PP2/PP2/Try1/Try1/obj/Debug/netcoreapp2.0/Try1.pdb

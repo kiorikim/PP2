@@ -1,0 +1,9 @@
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/bin/Debug/netstandard2.0/gameobjects.deps.json
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/bin/Debug/netstandard2.0/gameobjects.dll
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/bin/Debug/netstandard2.0/gameobjects.pdb
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/obj/Debug/netstandard2.0/gameobjects.csprojAssemblyReference.cache
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/obj/Debug/netstandard2.0/gameobjects.csproj.CoreCompileInputs.cache
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/obj/Debug/netstandard2.0/gameobjects.AssemblyInfoInputs.cache
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/obj/Debug/netstandard2.0/gameobjects.AssemblyInfo.cs
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/obj/Debug/netstandard2.0/gameobjects.dll
+/Users/kimkiori/Desktop/university/PP2_summer/Projects/Lecture8/mazebot0/gameobjects/obj/Debug/netstandard2.0/gameobjects.pdb

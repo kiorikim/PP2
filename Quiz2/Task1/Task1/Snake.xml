@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Snake xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<BodyColor>Green</BodyColor>
+<body>
+<Point>
+<X>47</X>
+<Y>4</Y>
+</Point>
+<Point>
+<X>48</X>
+<Y>4</Y>
+</Point>
+<Point>
+<X>49</X>
+<Y>4</Y>
+</Point>
+<Point>
+<X>50</X>
+<Y>4</Y>
+</Point>
+<Point>
+<X>51</X>
+<Y>4</Y>
+</Point>
+</body>
+</Snake>

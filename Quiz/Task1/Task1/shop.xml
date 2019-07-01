@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Shop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productsList>
+    <Products>
+      <name>one</name>
+      <price>100</price>
+    </Products>
+    <Products>
+      <name>two</name>
+      <price>1000</price>
+    </Products>
+  </productsList>
+  <shopName>aa</shopName>
+  <shopType>bb</shopType>
+</Shop>

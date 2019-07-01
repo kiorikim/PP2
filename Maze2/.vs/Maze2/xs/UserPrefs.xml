@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{04E195F3-53E9-4EDB-B1D8-95A9D7A6BBD6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Maze2/GameSession.cs">
+    <Files>
+      <File FileName="Maze2/Program.cs" Line="41" Column="15" />
+      <File FileName="Maze2/GameSession.cs" Line="78" Column="1" />
+      <File FileName="Maze2/EmptyClass.cs" />
+      <File FileName="Maze2/Exit.cs" />
+      <File FileName="Maze2/GameObject.cs" />
+      <File FileName="Maze2/Point.cs" />
+      <File FileName="Maze2/Person.cs" />
+      <File FileName="Maze2/Wall.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Maze2" expanded="True">
+            <Node name="Maze2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True">
+                  <Node name="Microsoft.NETCore.App" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Maze2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

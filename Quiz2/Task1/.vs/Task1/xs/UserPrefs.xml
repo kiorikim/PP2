@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{02C595FB-6BAE-49E7-85E2-DE8704C767B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/Program.cs">
+    <Files>
+      <File FileName="Task1/Program.cs" Line="34" Column="10" />
+      <File FileName="Task1/Point.cs" Line="4" Column="4" />
+      <File FileName="Task1/Snake.cs" Line="2" Column="1" />
+      <File FileName="Task1/Snake.xml" Line="13" Column="5" />
+      <File FileName="Task1/order.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

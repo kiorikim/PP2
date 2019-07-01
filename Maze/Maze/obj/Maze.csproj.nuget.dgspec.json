@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kimkiori/Desktop/university/PP2/PP2/Maze/Maze/Maze.csproj": {}
+  },
+  "projects": {
+    "/Users/kimkiori/Desktop/university/PP2/PP2/Maze/Maze/Maze.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kimkiori/Desktop/university/PP2/PP2/Maze/Maze/Maze.csproj",
+        "projectName": "Maze",
+        "projectPath": "/Users/kimkiori/Desktop/university/PP2/PP2/Maze/Maze/Maze.csproj",
+        "packagesPath": "/Users/kimkiori/.nuget/packages/",
+        "outputPath": "/Users/kimkiori/Desktop/university/PP2/PP2/Maze/Maze/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kimkiori/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
